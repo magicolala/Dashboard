@@ -16,5 +16,5 @@ build.xml
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
-/web/assets/vendors
 !composer.lock
+/.idaa/
